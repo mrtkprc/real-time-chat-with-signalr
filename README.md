@@ -11,3 +11,7 @@ Create Web Api
 Add csproj to the solution
 `dotnet sln add ./Chatty.Api/Chatty.Api.csproj`
 
+Update Https Certificate
+
+`dotnet dev-certs https --clean`
+`dotnet dev-certs https --trust`
