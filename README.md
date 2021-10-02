@@ -30,3 +30,6 @@ Install SignalR
 
 `npm i --save @microsoft/signalr`
 
+Sample Output:
+
+['Sample Output']('./screenshots/chat_ss.png')
