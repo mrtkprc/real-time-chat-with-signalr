@@ -32,4 +32,4 @@ Install SignalR
 
 Sample Output:
 
-["Output of Application"]("screenshots/chat_ss.png")
+![Output of Application](/screenshots/chat_ss.png)
